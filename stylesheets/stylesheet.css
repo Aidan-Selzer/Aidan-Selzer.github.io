@@ -1,0 +1,73 @@
+
+body {
+    background-color: rgb(44, 44, 44);
+}
+.listing {
+    color: white;
+    background-color: #9A25FA;
+    font-family: Georgia, serif;
+}
+
+h1,h2,h3,h4 {
+    color: white;
+    font-family: Georgia, serif;
+}
+li {
+    color: white;
+    font-family: Georgia, serif;
+}
+.navbackground {
+    background-color: #8E99FA;
+}
+.motolink {
+    text-decoration: none;
+    font-family: Georgia, serif;
+}
+.list{
+        color: white;    
+    font-family: Georgia, serif;
+    background-color: #9A25FA;
+}
+.topBar {
+    color: white;
+    text-align: left;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Georgia, serif;
+}
+nav {
+    text-align: center;
+    color: white;
+    margin: 0px;
+    font-family: Georgia, serif;
+}
+dl {
+    color: white;    
+    font-family: Georgia, serif;
+    background-color: #9A25FA;
+}
+
+p {
+    color: white;   
+    font-family: Georgia, serif;    
+}
+
+img {
+    border-radius: 20px;
+}
+.text {
+    text-align: center;
+}
+.bikes {
+    display: inline-block;
+    vertical-align: top;
+    gap: 50px;
+    text-align: center;
+    margin-top: 20px;
+    width: 49%;
+}
+#nff {
+    text-align: center;
+    font-style: italic;
+}
